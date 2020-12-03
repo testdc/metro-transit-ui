@@ -1,0 +1,1 @@
+export const baseURL = `https://svc.metrotransit.org/nextripv2/`;
